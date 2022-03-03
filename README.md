@@ -19,3 +19,6 @@ The project has 6 basic steps:
 5. Take a screenshot of each year's HTML file.
 6. Put the screenshots together into a video.
 
+You can see the video that I created here:
+
+https://youtu.be/4Ma0VcbSUks
